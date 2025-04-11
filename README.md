@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ```
 youtube-trending-analysis/
-├── analysis/                   # Python scripts and notebooks
+├── youtube_analysis/                   # Python scripts and notebooks
 ├── data/                       # Raw or cleaned datasets
 ├── tableau/
 │   └── Book1.twb               # Tableau dashboard
